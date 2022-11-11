@@ -1,0 +1,7 @@
+C:\Users\spudi\source\repos\kret\kret\bin\Debug\kret.dll.config
+C:\Users\spudi\source\repos\kret\kret\bin\Debug\kret.dll
+C:\Users\spudi\source\repos\kret\kret\bin\Debug\kret.pdb
+C:\Users\spudi\source\repos\kret\kret\obj\Debug\kret.csproj.AssemblyReference.cache
+C:\Users\spudi\source\repos\kret\kret\obj\Debug\kret.csproj.CoreCompileInputs.cache
+C:\Users\spudi\source\repos\kret\kret\obj\Debug\kret.dll
+C:\Users\spudi\source\repos\kret\kret\obj\Debug\kret.pdb
