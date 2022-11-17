@@ -9,3 +9,14 @@ C:\Users\spudi\source\repos\kret\Client\obj\Debug\Client.csproj.GenerateResource
 C:\Users\spudi\source\repos\kret\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 C:\Users\spudi\source\repos\kret\Client\obj\Debug\Client.exe
 C:\Users\spudi\source\repos\kret\Client\obj\Debug\Client.pdb
+D:\code\dod\Client\bin\Debug\Client.exe.config
+D:\code\dod\Client\bin\Debug\Client.exe
+D:\code\dod\Client\bin\Debug\Client.pdb
+D:\code\dod\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\code\dod\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\code\dod\Client\obj\Debug\Client.Form1.resources
+D:\code\dod\Client\obj\Debug\Client.Properties.Resources.resources
+D:\code\dod\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\code\dod\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\code\dod\Client\obj\Debug\Client.exe
+D:\code\dod\Client\obj\Debug\Client.pdb

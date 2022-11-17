@@ -14,8 +14,9 @@ namespace Host
             using (var host = new ServiceHost(typeof(kret.Service)))
             {
                 host.Open();
-                Console.WriteLine("ЕСТЬ КУРИТЬ.");
-                Console.WriteLine("Нажми че-нить, чтоб выйти.");
+                Console.Title = "Сервер";
+                Console.WriteLine("Сервер запущен");
+                Console.WriteLine("Нажмите любую клавишу, чтобы остановить работу сервера.");
                 Console.ReadKey();
             }
         }

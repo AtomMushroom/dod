@@ -51,7 +51,7 @@ namespace kret
                 var usr = users.FirstOrDefault(i => i.ID == id);
                 if(usr != null)
                 {
-                    answer += $": {usr.Name} ";
+                    answer += $": {usr.Name} > ";
                 }
 
                 answer += message;

@@ -10,3 +10,15 @@ C:\Users\spudi\source\repos\kret\Host\obj\Debug\Host.csproj.CoreCompileInputs.ca
 C:\Users\spudi\source\repos\kret\Host\obj\Debug\Host.csproj.CopyComplete
 C:\Users\spudi\source\repos\kret\Host\obj\Debug\Host.exe
 C:\Users\spudi\source\repos\kret\Host\obj\Debug\Host.pdb
+D:\code\dod\Host\bin\Debug\Host.exe.config
+D:\code\dod\Host\bin\Debug\Host.exe
+D:\code\dod\Host\bin\Debug\Host.pdb
+D:\code\dod\Host\bin\Debug\kret.dll
+D:\code\dod\Host\bin\Debug\kret.pdb
+D:\code\dod\Host\bin\Debug\kret.dll.config
+D:\code\dod\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+D:\code\dod\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+D:\code\dod\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\code\dod\Host\obj\Debug\Host.csproj.CopyComplete
+D:\code\dod\Host\obj\Debug\Host.exe
+D:\code\dod\Host\obj\Debug\Host.pdb
